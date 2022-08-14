@@ -41,28 +41,33 @@ When we dropped the 'EIN' and 'Name' columns and used OneHotEncoder to process t
 
 ![010](Images/Attempt1_addmoreneurons.png)
 
+#### Result:
+
 ![01](Images/Attempt1_result.png)
+
 
 ### Attempt 2: 
 #### Delete the 2nd Hidden layer and keep only one hidden layer
 
 ![020](Images/attempt_2.png)
 
+#### Result:
+
 ![02](Images/attempt2_result.png)
 
 ### Attempt 3:
 #### Focus on the Data processing step and put back the 'NAME' column
-- Process the data
 
 ![03a](Images/3rdAttempt-Name.png)
 
-- Edit the deep learning model
+#### Edit the deep learning model
 
 ![03b](Images/3rdAttempt-ParaNo.png)
 
-- Result
+#### Result
 
 ![03c](Images/3rdAttempt_result.png)
+
 
 ## Summary: 
 
